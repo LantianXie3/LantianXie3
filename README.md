@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lantian! <br/>
+<h1>Aloha! <br/>
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Active Directory</b>
