@@ -7,7 +7,7 @@
 
 
 ## 🚨 Threat Hunting and Security Operations
--[Threat Hunt Report: Unauthorized TOR Usage](https://github.com/LantianXie3/threat-hunting-scenario)
+  - [Threat Hunt Report: Unauthorized TOR Usage](https://github.com/LantianXie3/threat-hunting-scenario)
 
 ## Active Directory
   - [VirtualBox + PowerShell](https://github.com/LantianXie3/ActiveDirectoryLab)
