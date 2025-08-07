@@ -2,8 +2,9 @@
 <h2>👨‍💻 Projects:</h2>
 
 
+## <img src="https://companieslogo.com/img/orig/TENB-ccc3ae65.png?t=1720244494" alt="Tenable Icon" width="32" style="vertical-align: text-bottom;"> Vulnerability Management Program
+- [Vulnerability Management Program Implementation](https://github.com/LantianXie3/Vulnerability-Management-Program-Implementation)
 
-<img src="https://www.x-od.com/wp-content/uploads/2023/10/VM-VRT-WHT.png" alt="VMware Logo" width="25%" style="pointer-events: none;">
 
 
 ## 🚨 Threat Hunting and Security Operations
