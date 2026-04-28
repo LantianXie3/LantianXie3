@@ -4,9 +4,6 @@
 
 **Cybersecurity & IT Professional · Honolulu, Hawaiʻi**
 
-[![Visitor Count](https://komarev.com/ghpvc/?username=LantianXie3&color=0e75b6&style=flat-square&label=Profile+Views)](https://github.com/LantianXie3)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
-
 </div>
 
 ---
